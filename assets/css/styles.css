@@ -1,0 +1,11 @@
+/* for debugging */
+* {
+    outline: 1px solid red;
+  }
+
+/* to reset browser defaults   */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
